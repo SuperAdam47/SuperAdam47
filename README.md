@@ -3,7 +3,6 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="145"></img>&nbsp;&nbsp;&nbsp;
   <a href="http://www.github.com/SuperAdam47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperAdam47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
 </div>
 
 &nbsp;&nbsp;&nbsp;I've been coding with since 2015,  **over a decade** of dedicated practice.
@@ -228,26 +227,16 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <br>Figma
     </td> 
   </tr>
-  
 </table>
 
-<table align="center">
-
-</table>
-
-
-
+ <p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
 <div align="center">
-
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/)
 
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superAdam47&show_icons=true)
 
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"  width="63%" />
 <a href="https://github.com/DeveloperShubhamKapoor" align="left"><img  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperAdam47&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%45%Languages" alt="Top Languages" width="35%" /></a>
