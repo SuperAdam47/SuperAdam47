@@ -23,213 +23,213 @@ Below, you'll find a selection of my previous endeavors:
 <table align="center">
   <tr>
   <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="20" height="20" />
       <br>Javascript
     </td>
     <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="20" height="20" />
       <br>Typescript
     </td>
     <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="20" height="20" />
       <br>React
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="20" height="20" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="20" height="20" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" />
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="20" height="20" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=angular" width="20" height="20" alt="Angular" />
       <br>Angular
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=svelte" title="Phoenix" alt="Phoenix " width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=svelte" title="Phoenix" alt="Phoenix " width="20" height="20"/>
       <br>Svelte
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" />
+      <img src="https://skillicons.dev/icons?i=threejs" width="20" height="20" alt="Three.js" />
       <br>Three.js
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=gatsby" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=gatsby" width="20" height="20" alt="php" />
       <br>Gatsby
     </td>
   </tr>
   <tr>
    <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" alt="Laravel" />
       <br>NodeJS
     </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="20" height="20" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=php" width="20" height="20" alt="php" />
       <br>PHP
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="20" height="20" alt="Laravel" />
       <br>Laravel
     </td>
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="rails" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="20" height="20" alt="rails" />
       <br>WordPress
     </td>
         </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="php" />
       <br>Java
     </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=cs" width="20" height="20" alt="Laravel" />
       <br>C#
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=dotnet" width="20" height="20" alt="php" />
       <br>dotnet
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" alt="Ruby" />
+      <img src="https://skillicons.dev/icons?i=ruby" width="20" height="20" alt="Ruby" />
       <br>Ruby
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=go" width="20" height="20" alt="php" />
       <br>Go
     </td>
      </tr>
      <tr>
       <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=ai" width="20" height="20" alt="php" />
       <br>AI
     </td>
         <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="20" height="20" />
       <br>Python
     </td>
         <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="20" height="20" />
       <br>Django
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="20" height="20" alt="Flutter" />
       <br>Tensorflow
         <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=electron" width="40" height="40" alt="electron" />
+      <img src="https://skillicons.dev/icons?i=electron" width="20" height="20" alt="electron" />
       <br>Electron
       </td>
       <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="AndroidStudio" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="20" height="20" alt="AndroidStudio" />
       <br>Android
     </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="20" height="20" alt="php" />
       <br>Kotlin
     </td>
        <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="20" height="20" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=swift" width="20" height="20" alt="Flutter" />
       <br>Swift
     </td>
         <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=remix" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=remix" width="20" height="20" alt="Flutter" />
       <br>Remix
     </td>
      </tr>
     <tr>
      <td align="center" width="60">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="40" >
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="20" >
       <br>NFT
     </td>
     <td align="center" width="60">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="40" >
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="20" >
       <br>DeFi
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" />
+      <img src="https://skillicons.dev/icons?i=solidity" width="20" height="20" alt="Solidity" />
       <br>Solidity
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
+      <img src="https://skillicons.dev/icons?i=rust" width="20" height="20" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="20" height="20" alt="Flutter" />
       <br>Vercel
     </td> 
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="20" height="20" alt="Flutter" />
       <br>Nginx
     </td> 
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=aws" width="20" height="20" alt="Flutter" />
       <br>AWS
     </td>
     <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="20" height="20" />
       <br>RestAPI
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="20" height="20" alt="Flutter" />
       <br>FastAPI
     </td> 
        <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="figma" />
+      <img src="https://skillicons.dev/icons?i=figma" width="20" height="20" alt="figma" />
       <br>Figma
     </td> 
   </tr>
   <tr>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="MUI v5" />
+      <img src="https://skillicons.dev/icons?i=materialui" width="20" height="20" alt="MUI v5" />
       <br>MaterialUI
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="MUI v5" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="20" height="20" alt="MUI v5" />
       <br>Bootstrap
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="40" height="40" alt="StyledCom" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="20" height="20" alt="StyledCom" />
       <br>Styled
     </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=sass" width="20" height="20" alt="php" />
       <br>Sass
     </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="20" height="20" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="60">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="20" height="20" />
       <br>MySQL
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="20" height="20" alt="SQLite" />
       <br>SQLite
     </td>
     </td>
      <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="php" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="20" height="20" alt="php" />
       <br>GraphQL
     </td>
   </tr>
