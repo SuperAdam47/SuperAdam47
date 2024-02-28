@@ -238,12 +238,15 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
 
-<a href="https://github.com/SuperAdam47">
+<div> 
+<a href="https://github.com/SuperAdam47" width="61%">
   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_rank=false" />
 </a>
-<a href="https://github.com/SuperAdam47">
+<a href="https://github.com/SuperAdam47" width=35%">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperAdam47&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
+  
+</div>
 
 <br>
 
