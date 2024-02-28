@@ -240,7 +240,12 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"  width="63%" />
 <a href="https://github.com/SuperAdam47" align="left"><img  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperAdam47&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%45%Languages" alt="Top Languages" width="35%" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperAdam47&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br>
 
