@@ -18,16 +18,16 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ⭐ Web Development skills: <br/>
 ✔ JavaScript, React/Next, Vue/Nuxt, Angular, Svelte, PHP, WordPress, Shopify, Laravel, CodeIgniter, Node.js, Python, Django, Golang SASS, SCSS, SEO 
 
-⭐ Mobile Applications:<br/>
+⭐ Mobile Applications: <br/>
 ✔ iOS and Android applications, React Native, Swift, Flutter. Objective-C, Node.js
 
-⭐ AI Applications:<br/>
+⭐ AI Applications: <br/>
 ✔ Python, Django, Flask, OpenAI, GPT3.5, GPT4, LLM, Fine-tuning, LLM, Prompt Engineering, Web Scraping
 
-⭐ Blockchain development skills:
+⭐ Blockchain development skills: <br/>
 ✔  Blockchain: Bitcoin, Solidity, Smart Contracts, Ethereum, NFT Marketplace, DeFi, Ethers.js, web3.js
 
-⭐ Other skills:
+⭐ Other skills: <br/>
 ✔ CSS Frameworks: Tailwind CSS | Bootstrap | Material UI | UIKit | Semantic UI
 ✔ Database : MySQL | MongoDB | PostgreSQL | Firebase | SQLite
 ✔ API : REST | GraphQL | SOAP
