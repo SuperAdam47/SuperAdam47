@@ -16,9 +16,9 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 
 &nbsp;&nbsp;&nbsp;⭐ Web Development skills: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ JavaScript, React/Next, Vue/Nuxt, Angular, Svelte
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ PHP, WordPress, Shopify, Laravel, CodeIgniter
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Node.js, Python, Django, Golang, Ruby on Rails, SASS, SCSS, SEO 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ JavaScript, React/Next, Vue/Nuxt, Angular, Svelte <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ PHP, WordPress, Shopify, Laravel, CodeIgniter <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Node.js, Python, Django, Golang, Ruby on Rails, SASS, SCSS, SEO  <br/>
 
 &nbsp;&nbsp;&nbsp;⭐ Mobile Applications: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ iOS and Android applications, React Native, Swift, Flutter. Objective-C, Node.js
