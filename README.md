@@ -15,13 +15,13 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
 
 
-⭐ Web Development skills:
+⭐ Web Development skills: <br/>
 ✔ JavaScript, React/Next, Vue/Nuxt, Angular, Svelte, PHP, WordPress, Shopify, Laravel, CodeIgniter, Node.js, Python, Django, Golang SASS, SCSS, SEO 
 
-⭐ Mobile Applications:
+⭐ Mobile Applications:<br/>
 ✔ iOS and Android applications, React Native, Swift, Flutter. Objective-C, Node.js
 
-⭐ AI Applications:
+⭐ AI Applications:<br/>
 ✔ Python, Django, Flask, OpenAI, GPT3.5, GPT4, LLM, Fine-tuning, LLM, Prompt Engineering, Web Scraping
 
 ⭐ Blockchain development skills:
