@@ -28,10 +28,10 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 ✔  Blockchain: Bitcoin, Solidity, Smart Contracts, Ethereum, NFT Marketplace, DeFi, Ethers.js, web3.js
 
 ⭐ Other skills: <br/>
-✔ CSS Frameworks: Tailwind CSS | Bootstrap | Material UI | UIKit | Semantic UI
-✔ Database : MySQL | MongoDB | PostgreSQL | Firebase | SQLite
-✔ API : REST | GraphQL | SOAP
-✔ C/C++ | MFC | SDK | QT | OpenGL | OpenCV
+✔ CSS Frameworks: Tailwind CSS | Bootstrap | Material UI | UIKit | Semantic UI  <br/>
+✔ Database : MySQL | MongoDB | PostgreSQL | Firebase | SQLite   <br/>
+✔ API : REST | GraphQL | SOAP  <br/>
+✔ C/C++ | MFC | SDK | QT | OpenGL | OpenCV  <br/>
 
 ## ⚡ Technologies
 <table align="center">
