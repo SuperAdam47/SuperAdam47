@@ -10,6 +10,7 @@
 &nbsp;&nbsp;&nbsp;I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. 
 
 &nbsp;&nbsp;&nbsp;I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects. 
+
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
 
 &nbsp;&nbsp;&nbsp;⭐ Web development skills: <br/>
