@@ -9,30 +9,8 @@
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
 &nbsp;&nbsp;&nbsp;I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. 
-
 &nbsp;&nbsp;&nbsp;I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects. 
-
-
- <p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
-<div align="center">
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/)
-
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
-
-<a href="https://github.com/SuperAdam47">
-  <img height=200 width="55%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height=200 width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperAdam47&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
-
-<br>
-</div>
-
-
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
-
 
 &nbsp;&nbsp;&nbsp;⭐ Web development skills: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ JavaScript, React/Next, Vue/Nuxt, Angular, Svelte <br/>
@@ -53,6 +31,25 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Database : MySQL | MongoDB | PostgreSQL | Firebase | SQLite   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ API : REST | GraphQL | SOAP  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ C/C++ | MFC | SDK | QT | OpenGL | OpenCV  <br/>
+
+
+ <p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
+<div align="center">
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/)
+
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
+
+<a href="https://github.com/SuperAdam47">
+  <img height=200 width="55%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height=200 width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperAdam47&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+</a>
+
+<br>
+</div>
+
 
 ## ⚡ Technologies
 <table align="center">
