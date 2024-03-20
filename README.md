@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Web | Mobile | AI | .NET | Blockchain developer </h1>
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="145"></img>&nbsp;&nbsp;&nbsp;
   <a href="http://www.github.com/SuperAdam47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperAdam47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
