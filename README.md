@@ -12,6 +12,17 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 
 &nbsp;&nbsp;&nbsp;I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects. 
 
+
+ <p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
+<div align="center">
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/)
+
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
+
+
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
 
 
@@ -249,15 +260,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
     </td> 
   </tr>
 </table>
-
- <p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
-<div align="center">
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/)
-
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
 
 <a href="https://github.com/SuperAdam47">
   <img height=200 width="55%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
