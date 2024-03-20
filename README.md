@@ -51,7 +51,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
 </div>
 
 
-## ⚡ Technologies
+## ⚡ My Technologies
 <table align="center">
 <tr>
    <td align="center" width="90">
