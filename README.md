@@ -38,49 +38,7 @@
 
 ## ⚡ My Technologies
 <table align="center">
-<tr>
-   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Laravel" />
-      <br>NodeJS
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="php" />
-      <br>Java
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="Laravel" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="php" />
-      <br>dotnet
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
-      <br>Go
-    </td>
-     </tr>
-
+  
 <tr>
   <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
@@ -123,7 +81,49 @@
       <br>Gatsby
     </td>
   </tr>
-     <tr>
+<tr>
+   <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Laravel" />
+      <br>NodeJS
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="php" />
+      <br>Java
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="Laravel" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="php" />
+      <br>dotnet
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+      <br>Go
+    </td>
+     </tr>
+  <tr>
       <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="php" />
       <br>AI
