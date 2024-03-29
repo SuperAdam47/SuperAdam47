@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Web | Mobile | AI | .NET | Blockchain developer </h1>
+<h1 align="left" id="macropower-title">:wave: Web | Mobile | AI | .NET | Blockchain Expert </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="145"></img>&nbsp;&nbsp;&nbsp;
