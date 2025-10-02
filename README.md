@@ -5,8 +5,8 @@
   <a href="http://www.github.com/SuperAdam47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperAdam47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 -->
-&nbsp;&nbsp;&nbsp;I've been coding with since 2016,  **over a decade** of dedicated practice. I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
-&nbsp;&nbsp;&nbsp;I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects. 
+&nbsp;&nbsp;&nbsp;I've been coding with since 2016,  **over a decade** of dedicated practice. I prioritize client satisfaction over earnings, which is why I focus on delivering quality work. <br/>
+&nbsp;&nbsp;&nbsp;I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects. <br/>
 
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
 
@@ -220,7 +220,5 @@
 
 <p align="left" id="macropower-title">:wave: <b>I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
 <div align="center">
-<br/>
-<br>
 </div>
 
