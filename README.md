@@ -6,7 +6,7 @@
 </div>
 -->
 &nbsp;&nbsp;&nbsp;I've been coding with since 2017,  I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects.<br/>
-&nbsp;&nbsp;&nbsp; I prioritize client satisfaction over earnings, which is why I focus on delivering quality work. <br/>
+&nbsp;&nbsp;&nbsp;I prioritize client satisfaction over earnings, which is why I focus on delivering quality work. <br/>
 
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
 
