@@ -5,7 +5,7 @@
   <a href="http://www.github.com/SuperAdam47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperAdam47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 -->
-&nbsp;&nbsp;&nbsp;I've been coding with since 2017,  I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects.<br/>
+&nbsp;&nbsp;&nbsp;I've been coding with since 2016,  I'm actively developing great projects with my passion, conduct workshops, produce articles, and contribute to open-source projects.<br/>
 &nbsp;&nbsp;&nbsp;I prioritize client satisfaction over earnings, which is why I focus on delivering quality work. <br/><br/>
 
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
