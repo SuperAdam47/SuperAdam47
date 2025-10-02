@@ -5,7 +5,7 @@
   <a href="http://www.github.com/SuperAdam47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperAdam47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
-&nbsp;&nbsp;&nbsp;I've been coding with since 2015,  **over a decade** of dedicated practice. I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
+&nbsp;&nbsp;&nbsp;I've been coding with since 2016,  **over a decade** of dedicated practice. I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
 &nbsp;&nbsp;&nbsp;I am deeply indebted to the remarkable React & React Native community, which has greatly enriched my journey. Therefore, I am eager to reciprocate by giving back and disseminating my knowledge. 
 
@@ -13,28 +13,15 @@
 
 &nbsp;&nbsp;&nbsp;Below, you'll find a selection of my previous endeavors:
 
-&nbsp;&nbsp;&nbsp;⭐ Web development skills: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ JavaScript, React/Next, Vue/Nuxt, Angular, Svelte <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ PHP, WordPress, Shopify, Laravel, CodeIgniter <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Node.js, Python, Django, Golang, Ruby on Rails, SASS, SCSS, SEO  <br/>
+&nbsp;&nbsp;&nbsp;✔ Web development skills:&nbsp;&nbsp; JS/TS, React/Next, Vue/Nuxt, Svelte , WordPress , Laravel, Node.js, Python, Django, Golang<br/>
 
-&nbsp;&nbsp;&nbsp;⭐ Mobile App development skills: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ iOS and Android applications, React Native, Swift, Flutter. Objective-C, Node.js
+&nbsp;&nbsp;&nbsp;✔ Mobile App development skills:&nbsp;&nbsp;  React Native, Swift, Kotlin. Objective-C, Node.js <br/>
 
-&nbsp;&nbsp;&nbsp;⭐ AI App development skills: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Python, Django, Flask, Web Scraping
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ OpenAI, GPT3.5, GPT4, LLM, Fine-tuning, LLM, Prompt Engineering
+&nbsp;&nbsp;&nbsp;✔ AI App development skills:&nbsp;&nbsp;Python, Django, Web Scraping, OpenAI, GPT4, LLM, Fine-tuning, Prompt Engineering <br/>
 
-&nbsp;&nbsp;&nbsp;⭐ Blockchain development skills: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Bitcoin, Solidity, Smart Contracts, Ethereum, NFT Marketplace, DeFi, Ethers.js, web3.js
+&nbsp;&nbsp;&nbsp;✔ Blockchain development skills:&nbsp;&nbsp; Bitcoin, Solidity, Smart Contracts, NFT , DeFi, Ethers.js, web3.js , Solana bot<br/>
 
-&nbsp;&nbsp;&nbsp;⭐ Other skills: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ CSS Frameworks: Tailwind CSS | Bootstrap | Material UI | UIKit | Semantic UI  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Database : MySQL | MongoDB | PostgreSQL | Firebase | SQLite   <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ API : REST | GraphQL | SOAP  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ C/C++ | MFC | SDK | QT | OpenGL | OpenCV  <br/>
-
-
+&nbsp;&nbsp;&nbsp;✔ Other skills: &nbsp;&nbsp; C/C++ | MFC | SDK | QT | OpenGL | OpenCV <br/>
 
 ## ⚡ My Technologies
 <table align="center">
@@ -45,9 +32,13 @@
       <br>Javascript
   </td>
   <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Laravel" />
+      <br>NodeJS
+    </td>
+  <!-- <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
       <br>Typescript
-  </td>
+  </td> -->
   <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
       <br>React
@@ -64,10 +55,10 @@
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" title="Phoenix" alt="Svelte " width="45" height="45"/>
       <br>Svelte
@@ -76,36 +67,20 @@
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=gatsby" width="45" height="45" alt="php" />
       <br>Gatsby
-    </td>
-  </tr>
-<tr>
-   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Laravel" />
-      <br>NodeJS
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
       <br>WordPress
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="php" />
-      <br>Java
-    </td>
+  </tr>
+<tr>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="Laravel" />
       <br>C#
@@ -115,16 +90,6 @@
       <br>dotnet
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
-      <br>Go
-    </td>
-     </tr>
-  <tr>
-      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="php" />
       <br>AI
     </td>
@@ -132,7 +97,7 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
       <br>Python
     </td>
-        <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
       <br>Django
     </td>
@@ -141,30 +106,22 @@
       <br>Tensorflow
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />
-      <br>Electron
-      </td>
-      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+      <br>Go
     </td>
-     <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="php" />
       <br>Kotlin
-    </td>
-       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=swift" width="45" height="45" alt="Flutter" />
       <br>Swift
     </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=remix" width="45" height="45" alt="Flutter" />
-      <br>Remix
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
     </td>
-    </tr>
+     </tr>
     <tr>
    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="Laravel" />
@@ -252,11 +209,9 @@
 </table>
 
 
-<p align="left" id="macropower-title">:wave: I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
-<div align="center">
-<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/)
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/) -->
 
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SuperAdam47&row=2&column=4)](https://github.com/SuperAdam47/) -->
@@ -266,6 +221,9 @@
   <img height=200 width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperAdam47&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
+<p align="left" id="macropower-title">:wave: <b>I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
+<div align="center">
+<br/>
 <br>
 </div>
 
