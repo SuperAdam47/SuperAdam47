@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;✔ Blockchain development skills:&nbsp;&nbsp; Bitcoin, Solidity, Smart Contracts, NFT , DeFi, Ethers.js, web3.js , Solana bot<br/>
 
 &nbsp;&nbsp;&nbsp;✔ Other skills: &nbsp;&nbsp; React Native | Swift | C/C++ | C# | MFC | QT | OpenGL | OpenCV  <br/>
-
+<!--
 ## ⚡ My Technologies
 <table align="center">
   
@@ -28,10 +28,6 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Laravel" />
       <br>NodeJS
     </td>
-  <!-- <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
-      <br>Typescript
-  </td> -->
   <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
       <br>React
@@ -48,10 +44,6 @@
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
-    <!-- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" title="Phoenix" alt="Svelte " width="45" height="45"/>
       <br>Svelte
@@ -60,10 +52,6 @@
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
-    <!-- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gatsby" width="45" height="45" alt="php" />
-      <br>Gatsby
-    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
@@ -201,7 +189,7 @@
   </tr>
 </table>
 
-
+-->
 
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5)](https://github.com/SuperAdam47/) -->
