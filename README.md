@@ -12,7 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;✔ Web development skills:&nbsp;&nbsp; JS/TS, React/Next, Vue/Nuxt, Svelte , WordPress , Laravel, Node.js, .NET, Golang<br/>
 &nbsp;&nbsp;&nbsp;✔ AI App development skills:&nbsp;&nbsp;Python, Django, Web Scraping, OpenAI, GPT4, LLM, Fine-tuning, Prompt Engineering <br/>
-&nbsp;&nbsp;&nbsp;✔ Blockchain development skills:&nbsp;&nbsp; Bitcoin, Solidity, Smart Contracts, NFT , DeFi, Ethers.js, web3.js , Solana bot<br/>
+&nbsp;&nbsp;&nbsp;✔ Blockchain development skills:&nbsp;&nbsp; Solidity, Smart Contracts, NFT , DeFi, web3.js, Trading bots, Casino Game, Solana, Pumpfun<br/>
 
 &nbsp;&nbsp;&nbsp;✔ Other skills: &nbsp;&nbsp; React Native | Swift | C/C++ | C# | MFC | QT | OpenGL | OpenCV  <br/>
 <!--
