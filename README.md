@@ -201,7 +201,7 @@
   <img height=200 width="52%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperAdam47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height=200 width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperAdam47&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
-
+![](https://hit.yhype.me/github/profile?account_id=16169771)
 <p align="left" id="macropower-title">:wave: <b>I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
 <div align="center">
 </div>
