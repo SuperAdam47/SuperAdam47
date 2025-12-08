@@ -205,4 +205,4 @@
 <p align="left" id="macropower-title">:wave: <b>I am confident that my skills and experience make me the best candidate for everyone's desired project.</p>
 <div align="center">
 </div>
-![](https://hit.yhype.me/github/profile?account_id=16169771)
+    <img height=200 width="45%" align="center" src="https://hit.yhype.me/github/profile?account_id=16169771" />
